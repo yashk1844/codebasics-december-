@@ -12,4 +12,4 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 ![p1](https://user-images.githubusercontent.com/120360366/209687050-78496b1f-9723-4b44-8a4e-4f225d2d851e.jpg)
 ![p2](https://user-images.githubusercontent.com/120360366/209687089-0cb5378c-06b2-44cf-9a39-5118e3ba41ea.jpg)
 ![p3](https://user-images.githubusercontent.com/120360366/209687108-2c6621d2-316e-41ea-a2a3-fa6d49bc9cef.jpg)
-![p4](https://user-images.githubusercontent.com/120360366/209687128-b8691195-bf82-4cf9-8305-694b49536ccc.jpg)
+![ss](https://user-images.githubusercontent.com/120360366/209817058-5db68d99-74a3-45d8-a596-eb4538177406.jpg)
