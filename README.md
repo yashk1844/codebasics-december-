@@ -1,4 +1,5 @@
 # codebasics-december-
+click on the link to see the post regarding project-https://www.linkedin.com/posts/yash-kanojiya-b3257614b_realtimeproject-dashboarding-codebasicsresumeprojectchallenge-ugcPost-7013903859056029696-8_Dp?utm_source=share&utm_medium=member_desktop
 Problem Statement:-
 
 AtliQ is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
